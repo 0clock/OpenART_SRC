@@ -11,7 +11,7 @@ bash.exe.stackdump
 *.elf
 *.bin
 *.hex
-*.axf
+
 *.exe
 *.pdb
 *.idb
@@ -40,3 +40,4 @@ ncscope.*
 #ctag files
 tags
 
+project.uvguix.Jun
