@@ -229,10 +229,10 @@ int _sys_seek(FILEHANDLE fh, long pos)
 /**
  * used by tmpnam() or tmpfile()
  */
-int _sys_tmpnam(char *name, int fileno, unsigned maxlength)
-{
-    return -1;
-}
+//int _sys_tmpnam(char *name, int fileno, unsigned maxlength)
+//{
+//    return -1;
+//}
 
 char *_sys_command_string(char *cmd, int len)
 {
